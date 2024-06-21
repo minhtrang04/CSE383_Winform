@@ -1,0 +1,10 @@
+C:\Users\Windows 10\Downloads\WinForm\QLSach\QLySach\QLySach\bin\Debug\QLySach.exe.config
+C:\Users\Windows 10\Downloads\WinForm\QLSach\QLySach\QLySach\bin\Debug\QLySach.exe
+C:\Users\Windows 10\Downloads\WinForm\QLSach\QLySach\QLySach\bin\Debug\QLySach.pdb
+C:\Users\Windows 10\Downloads\WinForm\QLSach\QLySach\QLySach\obj\Debug\QLySach.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Downloads\WinForm\QLSach\QLySach\QLySach\obj\Debug\QLySach.Form1.resources
+C:\Users\Windows 10\Downloads\WinForm\QLSach\QLySach\QLySach\obj\Debug\QLySach.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\WinForm\QLSach\QLySach\QLySach\obj\Debug\QLySach.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\WinForm\QLSach\QLySach\QLySach\obj\Debug\QLySach.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\WinForm\QLSach\QLySach\QLySach\obj\Debug\QLySach.exe
+C:\Users\Windows 10\Downloads\WinForm\QLSach\QLySach\QLySach\obj\Debug\QLySach.pdb

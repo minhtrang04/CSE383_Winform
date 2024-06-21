@@ -1,0 +1,12 @@
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab3\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab3\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab3\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.Form1.resources
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.Form2.resources
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.Form3.resources

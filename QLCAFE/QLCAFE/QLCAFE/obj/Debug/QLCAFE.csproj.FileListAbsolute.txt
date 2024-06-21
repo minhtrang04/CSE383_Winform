@@ -1,0 +1,10 @@
+C:\Users\Windows 10\Downloads\WinForm\QLCAFE\QLCAFE\QLCAFE\bin\Debug\QLCAFE.exe.config
+C:\Users\Windows 10\Downloads\WinForm\QLCAFE\QLCAFE\QLCAFE\bin\Debug\QLCAFE.exe
+C:\Users\Windows 10\Downloads\WinForm\QLCAFE\QLCAFE\QLCAFE\bin\Debug\QLCAFE.pdb
+C:\Users\Windows 10\Downloads\WinForm\QLCAFE\QLCAFE\QLCAFE\obj\Debug\QLCAFE.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Downloads\WinForm\QLCAFE\QLCAFE\QLCAFE\obj\Debug\QLCAFE.Form1.resources
+C:\Users\Windows 10\Downloads\WinForm\QLCAFE\QLCAFE\QLCAFE\obj\Debug\QLCAFE.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\WinForm\QLCAFE\QLCAFE\QLCAFE\obj\Debug\QLCAFE.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\WinForm\QLCAFE\QLCAFE\QLCAFE\obj\Debug\QLCAFE.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\WinForm\QLCAFE\QLCAFE\QLCAFE\obj\Debug\QLCAFE.exe
+C:\Users\Windows 10\Downloads\WinForm\QLCAFE\QLCAFE\QLCAFE\obj\Debug\QLCAFE.pdb

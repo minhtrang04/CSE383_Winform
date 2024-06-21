@@ -1,0 +1,10 @@
+C:\Users\Windows 10\source\repos\QLSV-Slide\QLSV-Slide\bin\Debug\QLSV-Slide.exe.config
+C:\Users\Windows 10\source\repos\QLSV-Slide\QLSV-Slide\bin\Debug\QLSV-Slide.exe
+C:\Users\Windows 10\source\repos\QLSV-Slide\QLSV-Slide\bin\Debug\QLSV-Slide.pdb
+C:\Users\Windows 10\source\repos\QLSV-Slide\QLSV-Slide\obj\Debug\QLSV-Slide.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\QLSV-Slide\QLSV-Slide\obj\Debug\QLSV_Slide.Form1.resources
+C:\Users\Windows 10\source\repos\QLSV-Slide\QLSV-Slide\obj\Debug\QLSV_Slide.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\QLSV-Slide\QLSV-Slide\obj\Debug\QLSV-Slide.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\QLSV-Slide\QLSV-Slide\obj\Debug\QLSV-Slide.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\QLSV-Slide\QLSV-Slide\obj\Debug\QLSV-Slide.exe
+C:\Users\Windows 10\source\repos\QLSV-Slide\QLSV-Slide\obj\Debug\QLSV-Slide.pdb

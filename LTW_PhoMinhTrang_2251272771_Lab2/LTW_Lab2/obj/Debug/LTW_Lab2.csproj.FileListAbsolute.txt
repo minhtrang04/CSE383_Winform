@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab2\LTW_Lab2\bin\Debug\LTW_Lab2.exe.config
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab2\LTW_Lab2\bin\Debug\LTW_Lab2.exe
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab2\LTW_Lab2\bin\Debug\LTW_Lab2.pdb
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab2\LTW_Lab2\obj\Debug\LTW_Lab2.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab2\LTW_Lab2\obj\Debug\LTW_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab2\LTW_Lab2\obj\Debug\LTW_Lab2.exe
+C:\Users\Windows 10\Downloads\WinForm\LTW_PhoMinhTrang_2251272771_Lab2\LTW_Lab2\obj\Debug\LTW_Lab2.pdb

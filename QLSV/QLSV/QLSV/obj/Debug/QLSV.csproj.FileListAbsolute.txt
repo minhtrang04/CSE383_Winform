@@ -1,0 +1,98 @@
+C:\Users\ASUS\source\repos\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\ASUS\source\repos\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\ASUS\source\repos\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\ASUS\source\repos\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\ASUS\source\repos\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\ASUS\source\repos\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\ASUS\source\repos\QLSV\QLSV\obj\Debug\QLSV.SearchForm.resources
+C:\Users\ASUS\source\repos\QLSV\QLSV\obj\Debug\QLSV.LoginForm.resources
+C:\Users\ASUS\source\repos\QLSV\QLSV\obj\Debug\QLSV.MainForm.resources
+C:\Users\Windows 10\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.MainForm.resources
+C:\Users\Windows 10\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.LoginForm.resources
+C:\Users\Windows 10\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.SearchForm.resources
+C:\Users\Windows 10\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\Windows 10\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\Windows 10\Downloads\WinForm\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\Windows 10\Downloads\WinForm\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\Windows 10\Downloads\WinForm\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\C#\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\C#\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.MainForm.resources
+D:\C#\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.LoginForm.resources
+D:\C#\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\C#\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.SearchForm.resources
+D:\C#\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\C#\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\C#\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\C#\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\C#\QLSV\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\C#\QLSV\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\C#\QLSV\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.MainForm.resources
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.LoginForm.resources
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.SearchForm.resources
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.MainForm.resources
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.LoginForm.resources
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.SearchForm.resources
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\ACER\Documents\Zalo Received Files\QLSV\QLSV\QLSV\QLSV\QLSV\QLSV\obj\Debug\QLSV.Report.resources
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\obj\Debug\QLSV.MainForm.resources
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\obj\Debug\QLSV.LoginForm.resources
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\obj\Debug\QLSV.Report.resources
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\obj\Debug\QLSV.SearchForm.resources
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\ACER\OneDrive\Hình ảnh\QLSV (2)\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\ACER\Downloads\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\ACER\Downloads\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\ACER\Downloads\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\ACER\Downloads\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\QLSV\QLSV\obj\Debug\QLSV.MainForm.resources
+C:\Users\ACER\Downloads\QLSV\QLSV\obj\Debug\QLSV.LoginForm.resources
+C:\Users\ACER\Downloads\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\ACER\Downloads\QLSV\QLSV\obj\Debug\QLSV.SearchForm.resources
+C:\Users\ACER\Downloads\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\ACER\Downloads\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.MainForm.resources
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.LoginForm.resources
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.SearchForm.resources
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\Admin\Downloads\WinForm\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
