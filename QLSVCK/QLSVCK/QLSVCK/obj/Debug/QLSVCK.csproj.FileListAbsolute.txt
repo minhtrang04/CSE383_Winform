@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\WinForm\QLSVCK\QLSVCK\QLSVCK\bin\Debug\QLSVCK.exe.config
+C:\Users\Admin\Downloads\WinForm\QLSVCK\QLSVCK\QLSVCK\bin\Debug\QLSVCK.exe
+C:\Users\Admin\Downloads\WinForm\QLSVCK\QLSVCK\QLSVCK\bin\Debug\QLSVCK.pdb
+C:\Users\Admin\Downloads\WinForm\QLSVCK\QLSVCK\QLSVCK\obj\Debug\QLSVCK.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\WinForm\QLSVCK\QLSVCK\QLSVCK\obj\Debug\QLSVCK.Form1.resources
+C:\Users\Admin\Downloads\WinForm\QLSVCK\QLSVCK\QLSVCK\obj\Debug\QLSVCK.Form2.resources
+C:\Users\Admin\Downloads\WinForm\QLSVCK\QLSVCK\QLSVCK\obj\Debug\QLSVCK.Properties.Resources.resources
+C:\Users\Admin\Downloads\WinForm\QLSVCK\QLSVCK\QLSVCK\obj\Debug\QLSVCK.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\WinForm\QLSVCK\QLSVCK\QLSVCK\obj\Debug\QLSVCK.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WinForm\QLSVCK\QLSVCK\QLSVCK\obj\Debug\QLSVCK.exe
+C:\Users\Admin\Downloads\WinForm\QLSVCK\QLSVCK\QLSVCK\obj\Debug\QLSVCK.pdb
