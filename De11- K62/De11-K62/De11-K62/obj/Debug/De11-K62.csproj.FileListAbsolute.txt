@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\bin\Debug\De11-K62.exe.config
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\bin\Debug\De11-K62.exe
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\bin\Debug\De11-K62.pdb
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\obj\Debug\De11-K62.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\obj\Debug\De11_K62.Form1.resources
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\obj\Debug\De11_K62.Properties.Resources.resources
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\obj\Debug\De11-K62.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\obj\Debug\De11-K62.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\obj\Debug\De11-K62.exe
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\obj\Debug\De11-K62.pdb
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\obj\Debug\De11_K62.NhapDiem.resources
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\obj\Debug\De11_K62.SinhVien.resources
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\obj\Debug\De11_K62.Khoa.resources
+C:\Users\Admin\Downloads\WinForm\De11- K62\De11-K62\De11-K62\obj\Debug\De11_K62.XemDiem.resources
